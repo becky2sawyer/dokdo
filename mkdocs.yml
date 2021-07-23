@@ -2,7 +2,7 @@ site_name: dokdo
 site_url: https://becky2sawyer.github.io/dokdo
 
 theme:
-  logo: img/eye.png
+  logo: img/dokdo.png
   favicon: img/favicon-16x16.png
   name: "material"
   language: kr

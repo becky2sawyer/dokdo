@@ -8,7 +8,7 @@ $ pip install dokdo
 $ dokdo-ping
 ```
 
-![dokdo](https://static.thenounproject.com/png/182998-200.png)
+![dokdo](https://becky2sawyer.github.io/dokdo/img/dokdo.png)
 
 # 비슷한 프로젝트
 - https://github.com/wonderlandpark/dokdo
